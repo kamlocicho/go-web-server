@@ -1,0 +1,5 @@
+### health check
+GET http://localhost:3000/v1/ready
+
+### error test
+GET http://localhost:3000/v1/err
